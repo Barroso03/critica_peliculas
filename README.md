@@ -5,13 +5,13 @@ el link del rpositorio es el siguiente(https://github.com/Barroso03/critica_peli
 Rubén te voy a explicar aqui todo lo que he hecho pero hay cosas que no me salen y llevo todo el dia intentando.
 esta es la clase para hallar todos los calculos
 
-´´´
+´´´´
 #importa pandas para trabajar con dataframes
 import pandas as pd
 from statistics import *
 #importa matplotlib para graficar
 import matplotlib.pyplot as plt
-# importa math para trabajar con funciones matematicas
+#importa math para trabajar con funciones matematicas
 from math import *
 #Crea la clase resultadosestadisticos
 class resultadosestadisticos:
@@ -56,7 +56,7 @@ class resultadosestadisticos:
         # retorna el gráfico
         return grafico
         
-# printea la clase resultadosestadisticos
+#printea la clase resultadosestadisticos
 print(resultadosestadisticos.media_aritmetica("media_aritmetica",'datos'))
 print(resultadosestadisticos.varianza("varianza",'datos'))
 print(resultadosestadisticos.desviacion_tipica("desviacion_tipica",'datos'))
