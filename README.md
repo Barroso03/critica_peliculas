@@ -5,6 +5,9 @@ el link del rpositorio es el siguiente(https://github.com/Barroso03/critica_peli
 Rubén te voy a explicar aqui todo lo que he hecho pero hay cosas que no me salen y llevo todo el dia intentando.
 esta es la clase para hallar todos los calculos
 
+
+
+
 ´´´´
 #importa pandas para trabajar con dataframes
 import pandas as pd
@@ -62,6 +65,11 @@ print(resultadosestadisticos.varianza("varianza",'datos'))
 print(resultadosestadisticos.desviacion_tipica("desviacion_tipica",'datos'))
 print(resultadosestadisticos.percentiles("percentiles",'datos'))
 ´´´
+
+
+
+
+
 despues de esto haria un lanzador en el cual haria una clase en la cual hiciese todos los calculos y luego en el main importaria el lanzador para terminar.
 El csv que he escogido es el del portal de la asignatura aunque no tenga muchos datos.
 El archivo esta en un commit
