@@ -6,14 +6,14 @@ Rubén te voy a explicar aqui todo lo que he hecho pero hay cosas que no me sale
 esta es la clase para hallar todos los calculos
 
 ´´´
-# importa pandas para trabajar con dataframes
+#importa pandas para trabajar con dataframes
 import pandas as pd
 from statistics import *
-# importa matplotlib para graficar
+#importa matplotlib para graficar
 import matplotlib.pyplot as plt
 # importa math para trabajar con funciones matematicas
 from math import *
-# Crea la clase resultadosestadisticos
+#Crea la clase resultadosestadisticos
 class resultadosestadisticos:
     datos = pd.read_csv("C:/critica_peliculas/criticapelicula.csv")
     # crea el constructor
