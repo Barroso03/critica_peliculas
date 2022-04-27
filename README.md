@@ -64,9 +64,9 @@ print(resultadosestadisticos.percentiles("percentiles",'datos'))
 ´´´
 despues de esto haria un lanzador en el cual haria una clase en la cual hiciese todos los calculos y luego en el main importaria el lanzador para terminar.
 El csv que he escogido es el del portal de la asignatura aunque no tenga muchos datos.
-Te dejo aqui el archivo.
+El archivo esta en un commit
 
-se que el trabajo esta un poco mal porque no funciona y eso pero he aprendido bastante.
+Se que el trabajo esta un poco mal porque no funciona y eso pero he aprendido bastante.
 
 
 
